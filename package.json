@@ -1,0 +1,23 @@
+{
+  "name": "ts2.1-test",
+  "version": "1.0.0",
+  "description": "npm install typescript",
+  "main": "asyncAwait.js",
+  "dependencies": {
+    "tslib": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinaniit/ts2.1-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chinaniit/ts2.1-test/issues"
+  },
+  "homepage": "https://github.com/chinaniit/ts2.1-test#readme"
+}
