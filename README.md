@@ -29,4 +29,7 @@ Completions in imports and triple-slash reference paths
 Quick fixes support in language service API
 Untyped (implicit-any) imports
 
-
+git:
+git add *
+git commit -m "description"
+git push origin master
