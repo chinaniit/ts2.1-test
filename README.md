@@ -1,6 +1,4 @@
 # ts2.1-test
-https://github.com/Microsoft/TypeScript/wiki/Roadmap#21-december-2016
-
 npm install typescript<br/>
 options:<br/>
 npm install tslib<br/>
@@ -53,3 +51,7 @@ git:
 git add *<br/>
 git commit -m "description"<br/>
 git push origin master<br/>
+
+ref:
+https://github.com/Microsoft/TypeScript/wiki/Roadmap#21-december-2016
+https://zhuanlan.zhihu.com/p/21629069#!
