@@ -1,0 +1,7 @@
+// https://github.com/Microsoft/TypeScript/issues/9876
+// Configuration Inheritance
+{
+    "compilerOptions": {
+        "sourceMap": false
+    }
+}

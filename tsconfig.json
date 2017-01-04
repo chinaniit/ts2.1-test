@@ -1,9 +1,9 @@
 {
+    "extends": "./configs/tsconfig.base.json",
     "compilerOptions": {
         "module": "commonjs",
         "target": "es5",
         "noImplicitAny": false,
-        "sourceMap": false,
         "lib": [
              "dom", "es2015", "es2015.promise"
         ],
