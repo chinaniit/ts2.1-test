@@ -1,3 +1,5 @@
+// https://github.com/Microsoft/TypeScript/pull/11587
+// Narrow string and number types in literal equality checks #11587
 "use strict";
 function move(direction) {
 }
