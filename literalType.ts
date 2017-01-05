@@ -29,3 +29,11 @@ if(v5 == "2"){
 }
 
 let v6 = 1==1? 1:"abc"; // number | string
+
+
+function error(message: string): never {
+    throw new Error(message);
+}
+function do123(){
+    return error("")
+}

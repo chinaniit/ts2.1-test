@@ -2,7 +2,7 @@
 //  Static types for dynamically named properties (keyof T and T[K])
 "use strict";
 // get/setProperty
-function getProperty1(obj, key) { }
+function getProperty1(obj1, key1) { }
 function getProperty2(obj, key) {
     return obj[key];
 }

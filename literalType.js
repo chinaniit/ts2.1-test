@@ -25,3 +25,9 @@ var v5 = c5; // number | string
 if (v5 == "2") {
 }
 var v6 = 1 == 1 ? 1 : "abc"; // number | string
+function error(message) {
+    throw new Error(message);
+}
+function do123() {
+    return error("");
+}

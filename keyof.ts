@@ -11,7 +11,7 @@ type K2 = keyof IUser[];
 type K3 = keyof {[x:string]: IUser};
 
 // get/setProperty
-function getProperty1(obj, key){}
+function getProperty1(obj1: any, key1: any){}
 
 function getProperty2<T, K extends keyof T>(obj: T, key: K){
     return obj[key];
